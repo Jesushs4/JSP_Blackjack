@@ -1,0 +1,20 @@
+body{
+    background-image: url(../img/bets.avif);
+}
+
+
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1%;
+    color: white;
+}
+
+.valor{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15%
+}

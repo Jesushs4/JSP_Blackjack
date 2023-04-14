@@ -1,0 +1,40 @@
+body{
+    background-image: url(../img/textura.jpg);
+}
+
+.cartaReverso{
+    padding:50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartaReverso img {
+    width: 3%;
+    height: auto;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5%;
+}
+
+
+.cartas{
+    padding: 15px 0px 15px 0px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartas img {
+    width: 30%;
+    height: auto;
+}
+
+.valor{
+    font-size: 2rem;
+    text-align: center;
+}
